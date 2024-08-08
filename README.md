@@ -2,7 +2,7 @@
 
 AtliQ Hardware Business Report
 ## Overview
-Greetings and welcome to the AtliQ Hardware Growth and Data Insights Project! In this initiative, we harnessed the power of data to fuel expansion and extract valuable insights for AtliQ Hardware. Our mission involved a comprehensive examination of their sales data spanning from 2019 to 2021. We assessed their performance across various countries, pinpointed top-performing products, fine-tuned divisions for optimization, and closely monitored the performance of new products introduced in 2021. Our results and analyses underscore the effectiveness of making informed decisions based on data, which has been pivotal in fostering the growth of the business.
+Greetings and welcome to the AtliQ Hardware Growth and Data Insights Project! In this initiative, I harnessed the power of data to fuel expansion and extract valuable insights for AtliQ Hardware. My mission involved a comprehensive examination of their sales data spanning from 2019 to 2021. I assessed their performance across various countries, pinpointed top-performing products, fine-tuned divisions for optimization, and closely monitored the performance of new products introduced in 2021. My results and analyses underscore the effectiveness of making informed decisions based on data, which has been pivotal in fostering the growth of the business.
 ## Key Project Highlights
 Customer Net Sales Performance: We analyzed and visualized customer net sales performance to gain insights into revenue generation and identify key customers driving growth.
 
